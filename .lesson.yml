@@ -1,0 +1,8 @@
+---
+title: "Lunar Kitchen I"
+type: "challenge"
+description: "Recipes app using PosgreSQL and Sinatra."
+visibility: "assign"
+tags: "sql, sinatra, oop"
+ignore:
+- "sinatra-lunar-kitchen.md"
